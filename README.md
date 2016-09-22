@@ -1,2 +1,4 @@
-# simpleship_tutorial
-Unity 3D Tutorial - Simple Ship 2D, support files
+# Simple Ship 2D, Unity 3D tutorial
+
+Tutorial can be found from http://www.mikapeltomaa.fi/simple-ship-game-tutorial-1/
+
